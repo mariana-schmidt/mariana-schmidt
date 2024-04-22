@@ -11,6 +11,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp; Aprendendo mais sobre Desenvolvimento back end utilizando Nodejs.
+- 💻 Estudante na Cubos Academy
   
 <br/>
 
